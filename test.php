@@ -2,4 +2,6 @@
 
 echo 'helloworld!';
 
+echo "hahaha";
+
 ?>
